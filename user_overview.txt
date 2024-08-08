@@ -1,0 +1,14 @@
+The total number of users registered with task_manager.py is : 3
+The total number of tasks that have been generated and tracked using task_manager.py is : 4
+For user admin:
+The total number of tasks assigned is : 2
+The percentage of the total number of tasks that have been assigned is : 50.00%
+The percentage of the tasks assigned that have been completed is :  0.00%
+The percentage of the tasks assigned that must still be completed is : 100.00%
+The percentage of the tasks assigned that has not yet been completed and are overdue is : 100.00%
+For user dante:
+The total number of tasks assigned is : 2
+The percentage of the total number of tasks that have been assigned is : 50.00%
+The percentage of the tasks assigned that have been completed is :  50.00%
+The percentage of the tasks assigned that must still be completed is : 0.00%
+The percentage of the tasks assigned that has not yet been completed and are overdue is : 50.00%
